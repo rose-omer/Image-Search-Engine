@@ -5,7 +5,7 @@ const accessKey = "YOUR KEY ";
 
 const searchForm = document.getElementById("search-form");
 const searchBox = document.getElementById("search-box");
-const searchResult = document.getElementById("search-result"); // '>' kaldırıldı
+const searchResult = document.getElementById("search-result"); 
 const searchshowMoreBtn = document.getElementById("show-more-btn");
 
 let keyword = "";
@@ -21,10 +21,10 @@ async function searchImages() {
     if (page==1){
         searchResult.innerHTML="";
     }
-    const results = data.results; // 'result' yerine 'results' kullanıldı
-    results.forEach((result) => { // 'map' yerine 'forEach' kullanıldı
+    const results = data.results; 
+    results.forEach((result) => { 
         const image = document.createElement("img");
-        image.src = result.urls.small; // 'result.url.small' yerine 'result.urls.small' kullanıldı
+        image.src = result.urls.small; 
         const imageLink = document.createElement("a");
         imageLink.href = result.links.html;
         imageLink.target = "_blank";
