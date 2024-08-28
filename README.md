@@ -44,8 +44,10 @@ Projeyi yerel makinenizde çalıştırmak için:
 
 ## Ekran Görüntüleri
 
-![Ekran Görüntüsü 1](screenshot1.png)
-![Ekran Görüntüsü 2](screenshot2.png)
+![image](https://github.com/user-attachments/assets/b1b3c60c-7c6b-4bd1-8aa3-f6f9409e2190)
+![image](https://github.com/user-attachments/assets/cdc2e717-8a30-4c7b-8738-9b63fed1f166)
+![image](https://github.com/user-attachments/assets/a02e3cd0-451e-4399-a309-ed03710635d1)
+![Uploading image.png…]()
 
 ## Lisans
 
