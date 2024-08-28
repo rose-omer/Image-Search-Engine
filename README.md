@@ -44,10 +44,10 @@ Projeyi yerel makinenizde çalıştırmak için:
 
 ## Ekran Görüntüleri
 
-![image](https://github.com/user-attachments/assets/b1b3c60c-7c6b-4bd1-8aa3-f6f9409e2190)
 ![image](https://github.com/user-attachments/assets/cdc2e717-8a30-4c7b-8738-9b63fed1f166)
 ![image](https://github.com/user-attachments/assets/a02e3cd0-451e-4399-a309-ed03710635d1)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/b78ded67-89f1-4949-867f-730b90e2a188)
+![image](https://github.com/user-attachments/assets/03fab294-080d-4f13-bf43-48dfdf7bb934)
 
 ## Lisans
 
