@@ -48,6 +48,8 @@ Projeyi yerel makinenizde çalıştırmak için:
 ![image](https://github.com/user-attachments/assets/a02e3cd0-451e-4399-a309-ed03710635d1)
 ![image](https://github.com/user-attachments/assets/b78ded67-89f1-4949-867f-730b90e2a188)
 ![image](https://github.com/user-attachments/assets/03fab294-080d-4f13-bf43-48dfdf7bb934)
+![image](https://github.com/user-attachments/assets/a88f1644-404e-4187-a456-b4b2efa7c4e8)
+
 
 ## Lisans
 
